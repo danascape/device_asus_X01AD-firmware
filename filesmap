@@ -33,7 +33,7 @@ NON-HLOS.bin       /dev/block/bootdevice/by-name/modem
 sbl1.mbn           /dev/block/bootdevice/by-name/sbl1
 cmnlib_30.mbn      /dev/block/bootdevice/by-name/cmnlib
 devcfg.mbn         /dev/block/bootdevice/by-name/devcfg
-lksecapp.mbn       /dev/block/bootdevice/by-name/libsecapp
+lksecapp.mbn       /dev/block/bootdevice/by-name/lksecapp
 rpm.mbn            /dev/block/bootdevice/by-name/rpm
 tz.mbn             /dev/block/bootdevice/by-name/tz
 
