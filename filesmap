@@ -26,6 +26,16 @@
 # IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 # Task 1
+adspso.bin         /dev/block/bootdevice/by-name/dsp
+cmnlib64_30.mbn    /dev/block/bootdevice/by-name/cmnlib64
+keymaster64.mbn    /dev/block/bootdevice/by-name/keymaster
+NON-HLOS.bin       /dev/block/bootdevice/by-name/modem
+sbl1.mbn           /dev/block/bootdevice/by-name/sbl1
+cmnlib_30.mbn      /dev/block/bootdevice/by-name/cmnlib
+devcfg.mbn         /dev/block/bootdevice/by-name/devcfg
+lksecapp.mbn       /dev/block/bootdevice/by-name/libsecapp
+rpm.mbn            /dev/block/bootdevice/by-name/rpm
+tz.mbn             /dev/block/bootdevice/by-name/tz
 
 # Task 2
 dtbo.img           /dev/block/bootdevice/by-name/dtbo
